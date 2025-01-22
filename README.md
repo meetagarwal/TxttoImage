@@ -37,9 +37,7 @@ Here are some example prompts you can use to generate images:
 
 Contributions to this project are welcome! If you have suggestions, improvements, or bug fixes, feel free to submit issues or pull requests.
 
-## License
 
-This project is licensed under the MIT License. Please refer to the LICENSE file for more details.
 
 ## Acknowledgments
 
